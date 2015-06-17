@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="CellulantService">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="root">
+      <element id="archive" name="CellulantZRA.aar">
+        <element id="module-output" name="Cellulant" />
+      </element>
+    </root>
+  </artifact>
+</component>
