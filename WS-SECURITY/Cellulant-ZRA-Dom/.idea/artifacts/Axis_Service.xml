@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Axis Service">
+    <output-path>$PROJECT_DIR$/out/artifacts/Axis_Service.aar</output-path>
+    <root id="root">
+      <element id="module-output" name="Cellulant" />
+    </root>
+  </artifact>
+</component>

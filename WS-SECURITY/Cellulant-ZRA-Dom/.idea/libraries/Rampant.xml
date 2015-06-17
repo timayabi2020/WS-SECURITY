@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Rampant">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/bcprov-jdk15-140.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/commons-lang-2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/esapi-2.0GA.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/joda-time-1.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/opensaml-2.5.1-1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/openws-1.4.2-1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/rampart-core-1.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/rampart-policy-1.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/rampart-trust-1.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/slf4j-api-1.5.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/slf4j-jcl-1.5.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/velocity-1.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/wss4j-1.6.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/xmlsec-1.4.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/rampart-dist-1.6.2-bin/rampart-1.6.2/lib/xmltooling-1.3.2-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

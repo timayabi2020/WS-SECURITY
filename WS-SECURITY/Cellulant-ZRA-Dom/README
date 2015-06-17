@@ -1,0 +1,7 @@
+Requirements
++Axis
++Rampant
+
+Installation
++Copy 'out/artifacts/CellulantZRA.jar' file into 'Axis/lib' folder
++Copy 'out/artifacts/CellulantZRA.aar' file into 'Axis/repository/services' folder
